@@ -47,7 +47,7 @@
 
 
     .cajon.color-secundario.p-4.mb-0(data-aos='fade-right')
-           p.mb-0 #[b Nota:] Estas herramientas favorecen el aprendizaje activo, la reflexión y la apropiación del conocimiento.
+           p.mb-0 #[b Nota:] estas herramientas favorecen el aprendizaje activo, la reflexión y la apropiación del conocimiento.
 
 
 
@@ -224,7 +224,7 @@
 
 
     .cajon.color-acento-contenido.p-4.mb-0(data-aos='fade-right')
-       p.mb-0 #[b Nota:] Una buena gestión de la información facilita la toma de decisiones, la evaluación de resultados y la mejora continua.
+       p.mb-0 #[b Nota:] una buena gestión de la información facilita la toma de decisiones, la evaluación de resultados y la mejora continua.
 
 
 
