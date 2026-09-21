@@ -43,7 +43,8 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/UWfi2FbuU7Y?si=RlhCojkqQpYaEsf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Optimizando el campo a través del conocimiento compartido
+        figcaption Video. Saberes agroecológicos y construcción colectiva del conocimiento territorial
+
 </template>
 
 <script>
