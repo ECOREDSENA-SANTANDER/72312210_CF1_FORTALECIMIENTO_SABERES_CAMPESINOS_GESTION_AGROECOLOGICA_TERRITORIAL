@@ -80,19 +80,19 @@
                 ul.lista-ul--color.mb-3
                   li.d-flex.mb-0
                     i.fas.fa-circle.icon-list
-                    p.mb-0 Dinámicas de grupo (integración, motivación) 
+                    p.mb-0 Dinámicas de grupo (integración, motivación).
                   li.d-flex.mb-0
                     i.fas.fa-circle.icon-list
-                    p.mb-0 Lluvia de ideas 
+                    p.mb-0 Lluvia de ideas.
                   li.d-flex.mb-0
                     i.fas.fa-circle.icon-list
-                    p.mb-0 Trabajo en equipos 
+                    p.mb-0 Trabajo en equipos.
                   li.d-flex.mb-0
                     i.fas.fa-circle.icon-list
-                    p.mb-0 Preguntas orientadoras 
+                    p.mb-0 Preguntas orientadoras.
                   li.d-flex.mb-0
                     i.fas.fa-circle.icon-list
-                    p.mb-0 Uso de materiales didácticos (carteleras, mapas, dibujos) 
+                    p.mb-0 Uso de materiales didácticos (carteleras, mapas, dibujos).
                 p.mb-0 El facilitador debe promover la participación equitativa, el respeto y el diálogo.
 
 

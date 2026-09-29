@@ -197,14 +197,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
-    },
-  ],
+  complementario: [],
   glosario: [
     {
       termino: 'Aprendizaje horizontal',
@@ -217,7 +210,7 @@ export default {
         'variedad de especies vegetales, animales y microorganismos presentes en un sistema productivo.',
     },
     {
-      termino: 'Campesino a campesino (CAC)',
+      termino: 'Campesino a Campesino (CAC)',
       significado:
         'metodología participativa basada en el intercambio de conocimientos entre productores.',
     },
@@ -285,7 +278,7 @@ export default {
   referencias: [
     {
       referencia:
-        'AgriculturaWiki. (s.f.). ¿Cuál es la diferencia entre agricultura convencional y agroecología?: Ventajas de la agroecología vs agricultura convencional. ',
+        'AgriculturaWiki (s.f.). ¿Cuál es la diferencia entre agricultura convencional y agroecología?: Ventajas de la agroecología vs agricultura convencional. ',
     },
     {
       referencia:
@@ -311,7 +304,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

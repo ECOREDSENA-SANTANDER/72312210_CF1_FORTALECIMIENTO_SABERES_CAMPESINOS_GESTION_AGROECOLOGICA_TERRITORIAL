@@ -333,7 +333,7 @@
             .col-5
               img(src='@/assets/curso/temas/t1/15.svg')
           h4.text-center.fw-italic Cotesia marginiventris
-          p.mb-0.text-center Esta avispa parasita orugas y larvas como el gusano cogollero
+          p.mb-0.text-center Esta avispa parasita orugas y larvas como el gusano cogollero.
 
 
 
