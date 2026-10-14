@@ -57,7 +57,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: 'Relación cultura – territorio - producción',
+            titulo: 'Relación cultura - territorio - producción',
             hash: 't_1_5',
           },
         ],

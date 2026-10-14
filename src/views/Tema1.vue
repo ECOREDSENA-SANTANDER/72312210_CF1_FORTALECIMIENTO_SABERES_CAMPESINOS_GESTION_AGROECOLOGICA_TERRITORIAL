@@ -292,50 +292,7 @@
               img(src='@/assets/curso/temas/t1/9.svg', alt='La imagen presenta una infografía educativa sobre insectos benéficos controladores de plagas agrícolas, mostrando siete especies con ilustraciones científicas detalladas: Trichogramma (parasitoide de huevos), Coccinella septempunctata (mariquita depredadora de pulgones y cochinillas), Chrysoperla carnea (crisopa con larvas depredadoras generalistas), Episyrphus balteatus (sírfido depredador de pulgones), Carcelia spp (parasitoide de orugas) y Cotesia marginiventris (avispa parasitoide del gusano cogollero). El material está diseñado con fines didácticos para identificación entomológica en manejo integrado de plagas, incorporando nomenclatura científica binomial y fotografías realistas que facilitan el reconocimiento de estos organismos auxiliares en agroecosistemas. ')
 
 
-      h4.mb-5(data-aos='fade-right') Ejemplo de insectos benéficos
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos='fade-right')
-        .tarjeta.bg-fondo-1.p-4
-          .row.justify-content-center.mb-5
-            .col-5
-              img(src='@/assets/curso/temas/t1/10.svg')
-          h4.text-center.fw-italic Trichogramma
-          p.mb-0.text-center Parasitan huevos de insectos plaga.
-
-        .tarjeta.bg-fondo-1.p-4
-          .row.justify-content-center.mb-5
-            .col-5
-              img(src='@/assets/curso/temas/t1/11.svg')
-          h4.text-center.fw-italic Coccinella septempunctata
-          p.mb-0.text-center Un auténtico depredador de pulgones, cochinillas, ácaros y moscas blancas.
-
-        .tarjeta.bg-fondo-1.p-4
-          .row.justify-content-center.mb-5
-            .col-5
-              img(src='@/assets/curso/temas/t1/12.svg')
-          h4.text-center.fw-italic Chrysoperla carnea
-          p.mb-0.text-center Las larvas de las crisopas son depredadores generalistas.
-
-        .tarjeta.bg-fondo-1.p-4
-          .row.justify-content-center.mb-5
-            .col-5
-              img(src='@/assets/curso/temas/t1/13.svg')
-          h4.text-center.fw-italic Episyrphus balteatus
-          p.mb-0.text-center Sus larvas son voraces depredadores de pulgones, escamas, mosca blanca.
-
-        .tarjeta.bg-fondo-1.p-4
-          .row.justify-content-center.mb-5
-            .col-5
-              img(src='@/assets/curso/temas/t1/14.svg')
-          h4.text-center.fw-italic Carcelia spp
-          p.mb-0.text-center Parasitan a orugas y larvas defoliadoras como el gusano peludo.
-        .tarjeta.bg-fondo-1.p-4
-          .row.justify-content-center.mb-5
-            .col-5
-              img(src='@/assets/curso/temas/t1/15.svg')
-          h4.text-center.fw-italic Cotesia marginiventris
-          p.mb-0.text-center Esta avispa parasita orugas y larvas como el gusano cogollero.
-
-
+      
 
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/bg/1.svg')
@@ -391,7 +348,7 @@
           .col-sm-12.col-lg-11
             p.mb-4 Aunque su acción es indirecta, los protozoos cumplen una función importante en la dinámica del suelo. Al alimentarse de bacterias, regulan sus poblaciones y liberan nutrientes en formas disponibles para las plantas.
             .titulo-sexto.color-acento-contenido
-              p.mb-0  #[b Tabla 3.] Beneficios de los microorganismos en los suelos agrícolas.
+              p.mb-0  #[b Tabla 4.] Beneficios de los microorganismos en los suelos agrícolas.
             .tabla-b.color-primario.mb-4
               table
                 thead
@@ -522,8 +479,7 @@
               p.mb-3 Los recursos naturales constituyen la base de los sistemas productivos agroecológicos. El suelo es el principal medio para el desarrollo de los cultivos, ya que aporta nutrientes, retiene agua y sostiene la actividad biológica. Su calidad depende de factores como la textura, estructura, contenido de materia orgánica y manejo adecuado.
               p.mb-3 El agua es un recurso esencial para la producción agrícola, influyendo en el crecimiento de las plantas y en la productividad. Su disponibilidad, calidad y manejo (riego, conservación, cosecha de agua) son determinantes para la sostenibilidad del sistema.
 
-              p.mb-0 La biodiversidad incluye la variedad de especies vegetales, animales y microorganismos presentes en el territorio. Esta diversidad favorece el equilibrio ecológico, contribuye al control natural de plagas, mejora la fertilidad del suelo y fortalece la resiliencia del sistema productivo
-
+              p.mb-0 La biodiversidad incluye la variedad de especies vegetales, animales y microorganismos presentes en el territorio. Esta diversidad favorece el equilibrio ecológico, contribuye al control natural de plagas, mejora la fertilidad del suelo y fortalece la resiliencia del sistema productivo.
             .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/23.png')
 
@@ -745,7 +701,7 @@
 
       Separador
       #t_1_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-        h2 1.5 Relación cultura – territorio - producción
+        h2 1.5 Relación cultura - territorio - producción
 
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
